@@ -1,8 +1,8 @@
 const CONFIG = {
     titleWeb: "Đinh Phúc Đông và Em",
     introTitle: 'For U',
-    introDesc: `Anh tên là Đinh Phúc Đông 
-    Quê anh ở Thái Bình và anh 2009
+    introDesc: `Anh tên là Vũ Văn Tuyên 
+
     Anh chỉ muốn nói với em một câu thôi
     Anh iu em nhìu lắm`,
     btnIntro: 'Ấn zô đây ik',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà. Mình cũng iu b lắm ak',
     messDesc: 'Nhắn tin cho mình đi rùi mình iu nhau.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/DinhPhucDong.xD' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100019258061665' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
